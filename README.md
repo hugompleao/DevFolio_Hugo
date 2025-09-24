@@ -61,4 +61,4 @@ Para executar os projetos individualmente, siga as instruções específicas de 
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o ficheiro [LICENSE](LICENSE) para obter detalhes.
+O presente projeto está licenciado sob a Licença MIT - consulte o ficheiro [LICENSE](LICENSE) para obter detalhes.
